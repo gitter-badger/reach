@@ -3,6 +3,8 @@
 Reach
 =====
 
+[![Join the chat at https://gitter.im/clulab/reach](https://badges.gitter.im/clulab/reach.svg)](https://gitter.im/clulab/reach?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # What is it?
 
 Reach stands for **Re**ading and **A**ssembling **C**ontextual and **H**olistic Mechanisms from Text. In plain English, Reach is an information extraction system for the biomedical domain, which aims to read scientific literature and extract cancer signaling pathways. Reach implements a fairly complete extraction pipeline, including: recognition of biochemical entities (proteins, chemicals, etc.), grounding them to known knowledge bases such as Uniprot, extraction of BioPAX-like interactions, e.g., phosphorylation, complex assembly, positive/negative regulations, and coreference resolution, for both entities and interactions.  
